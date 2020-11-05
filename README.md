@@ -1,4 +1,4 @@
-This is a trading bot
+This is a trading bot for IG
 
-2071b578bd8dc9e6fae41f6e0088b595-568697e6a00e268d4c4386fcc9c2aba2
-http://developer.oanda.com/rest-live-v20/introduction/
+API Key: 26ba6c33b7b22f4b47df46acc30b654b98f4aa98
+Name: bebop
